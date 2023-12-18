@@ -6,7 +6,7 @@
         "bluetooth": "*",
         "devices": "*",
         "microphone": "*",
-        "Rover": "github:Freenove/Makecode-Extension-Rover#v1.0.7"
+        "maqueenPlusV2": "github:djacquel/pxt-dfrobot_maqueenplus_v20#v2.1.2"
     },
     "files": [
         "main.blocks",
