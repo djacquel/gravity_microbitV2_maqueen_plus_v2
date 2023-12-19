@@ -1,24 +1,9 @@
+This uses Maqueen Plus v2 extension for microbit allows you to use bluetooth.
 
-> Open this page at [https://djacquel.github.io/gravity_microbitv2_maqueen_plus_v2/](https://djacquel.github.io/gravity_microbitv2_maqueen_plus_v2/)
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
+# To use this app
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/djacquel/gravity_microbitv2_maqueen_plus_v2** and import
-
-## Edit this project
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/djacquel/gravity_microbitv2_maqueen_plus_v2** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+* click on **Import**
+* click on **Import URL**
+* copy **https://github.com/djacquel/gravity_microbitv2_maqueen_plus_v2** and import
